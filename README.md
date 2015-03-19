@@ -14,7 +14,7 @@ Dockerfile to build a [kitty](https://github.com/bryanwoods/kitty) image.
 Pull the latest version of the image from the docker index. This is the recommended method of installation as it is easier to update image in the future. These builds are performed by the **Docker Trusted Build** service.
 
 ```bash
-docker pull djdefi/kitty:latest
+docker pull djdefi/docker-kitty:latest
 ```
 
 Alternately you can build the image locally.
@@ -30,6 +30,6 @@ docker build --tag="$USER/kitty" .
 Run the image
 
 ```bash
-docker run djdefi/kitty
+docker run djdefi/docker-kitty
 
 ```
