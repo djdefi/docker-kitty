@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/djdefi/docker-kitty.svg?branch=master)](https://travis-ci.org/djdefi/docker-kitty)
+
 # Table of Contents
 
 - [Introduction](#introduction)
