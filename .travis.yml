@@ -1,0 +1,10 @@
+sudo: required
+
+language: ruby
+
+services:
+  - docker
+
+before_install:
+  - docker build -t djdefi/docker-kitty .
+  - docker run djdefi/docker-kitty
