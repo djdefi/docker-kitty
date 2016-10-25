@@ -9,7 +9,7 @@
 
 # Introduction
 
-Dockerfile to build a [kitty](https://github.com/bryanwoods/kitty) image.
+Dockerfile to build a [kitty](https://github.com/bryanwoods/kitty) Docker image.
 
 # Installation
 
