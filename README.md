@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/djdefi/docker-kitty.svg?branch=master)](https://travis-ci.org/djdefi/docker-kitty)
+![Docker Image CI](https://github.com/djdefi/docker-kitty/workflows/Docker%20Image%20CI/badge.svg)
 
 # Table of Contents
 
